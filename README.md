@@ -7,12 +7,13 @@
 gantt
 dateFormat  YYYY-MM-DD
 title Minha Timeline de Tecnologias
-section Desenvolvimento de Software
+section DS
 SQL           :active,, 2016-11-01,2024-12-31
-PHP           :done,, 2016-11-01,2017-12-31
 GIT           :active,, 2016-11-01,2024-12-31
+PHP           :crit,active, 2016-11-01,2017-12-31
 
-section Engenharia de Dados
+
+section DA
 
 section Cloud
 AWS           :active,, 2016-11-01,2018-02-28
