@@ -6,11 +6,16 @@
 ```mermaid
 gantt
 dateFormat  YYYY-MM-DD
-title My Timeline Tecnologies
-
-section Tecnologias
+title Minha Timeline de Tecnologias
+section Desenvolvimento de Software
 SQL           :active,, 2016-11-01,2024-12-31
 PHP           :active,, 2016-11-01,2017-12-31
+
+section Engenharia de Dados
+
+section Cloud
+AWS           :active,, 2016-11-01,2018-02-28
+GCP           :active,, 2018-01-01,2024-12-31
 ```
 
 ## Contatos:
