@@ -17,8 +17,8 @@ Pentaho       :active,, 2017-01-01,2018-12-31
 Metabase      :active,, 2019-01-01,2020-06-30
 SuperSet      :active,, 2019-01-01,2020-06-30
 AirFlow       :active,, 2019-01-01,2024-12-31
-PowerBI      :active,, 2020-01-07,2024-12-31
-BigQuery     :active,, 2020-01-07,2024-12-31
+BigQuery      :active,, 2019-01-01,2024-12-31
+PowerBI       :active,, 2020-01-07,2024-12-31
 
 section Cloud
 AWS           :active,, 2017-01-01,2019-01-01
