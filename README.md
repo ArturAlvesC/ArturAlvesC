@@ -20,7 +20,7 @@ AirFlow       :active,, 2019-01-01,2024-12-31
 Power BI      :active,, 2020-01-07,2024-12-31
 
 section Cloud
-AWS           :active,, 2016-11-01,2019-01-01
+AWS           :active,, 2017-01-01,2019-01-01
 GCP           :active,, 2018-01-01,2024-12-31
 ```
 
