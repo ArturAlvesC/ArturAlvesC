@@ -9,8 +9,8 @@ dateFormat  YYYY-MM-DD
 title Minha Timeline de Tecnologias
 section Desenvolvimento de Software
 SQL           :active,, 2016-11-01,2024-12-31
-PHP           :active,, 2016-11-01,2017-12-31
-GIT           :active,, 2016-11-01,TODAY
+PHP           :done,, 2016-11-01,2017-12-31
+GIT           :active,, 2016-11-01,2024-12-31
 
 section Engenharia de Dados
 
