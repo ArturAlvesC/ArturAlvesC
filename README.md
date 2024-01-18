@@ -4,23 +4,13 @@
 - 🌱 Formado em Sistemas de Informação pela FIAP.
 
 ```mermaid
-
 gantt
 dateFormat  YYYY-MM-DD
-title My Timeline
+title My Timeline Tecnologies
 
-section Carreira
-Tapps Games           :active,, 2016-11-01,2017-04-01
-SAS Institute         :active,, 2017-04-01,2018-08-01
-Grupo Boticário       :active,, 2018-08-01,2019-11-01
-Via Varejo            :active,, 2019-11-01,2021-01-01
-Gamers Club           :active,, 2021-03-01,2023-05-01
-idwall                :active,, 2023-09-01,2023-12-31
-
-section Professor
-Téo Me Why             :active,, 2019-08-01,2024-12-31
-Instituto Aaron Swartz :active,, 2023-02-01,2024-12-31
-ASN.Rocks              :active,, 2020-06-01,2024-12-31
+section Tecnologias
+SQL           :active,, 2016-11-01,2024-12-31
+PHP           :active,, 2016-11-01,2017-12-31
 ```
 
 ## Contatos:
