@@ -7,13 +7,16 @@
 gantt
 dateFormat  YYYY-MM-DD
 title Minha Timeline de Tecnologias
-section DS
+section Geral
 SQL           :active,, 2016-11-01,2024-12-31
 GIT           :active,, 2016-11-01,2024-12-31
-PHP           :crit,active, 2016-11-01,2017-12-31
+PHP           :active,, 2016-11-01,2017-12-31
 
-
-section DA
+section Dados
+Pentaho       :active,, 2017-01-01,2018-12-31
+Airflow       :active,, 2019-01-01,2024-12-31
+Metabase      :active,, 2019-01-01,2020-06-30
+Metabase      :active,, 2020-01-07,2024-12-31
 
 section Cloud
 AWS           :active,, 2016-11-01,2018-02-28
