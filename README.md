@@ -5,40 +5,23 @@
 
 ## Contatos:
 
-<script src="/dist/js/timeline.min.js"></script>
-<link href="/dist/css/timeline.min.css" rel="stylesheet" />
+gantt
+dateFormat  YYYY-MM-DD
+title My Timeline
 
-<div class="timeline">
-    <div class="timeline__wrap">
-        <div class="timeline__items">
-            <div class="timeline__item">
-                <div class="timeline__content">
-                    Content / markup here
-                </div>
-            </div>
-            <div class="timeline__item">
-                <div class="timeline__content">
-                    Content / markup here
-                </div>
-            </div>
-            <div class="timeline__item">
-                <div class="timeline__content">
-                    Content / markup here
-                </div>
-            </div>
-            <div class="timeline__item">
-                <div class="timeline__content">
-                    Content / markup here
-                </div>
-            </div>
-            <div class="timeline__item">
-                <div class="timeline__content">
-                    Content / markup here
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
+section Carreira
+Tapps Games           :active,, 2016-11-01,2017-04-01
+SAS Institute         :active,, 2017-04-01,2018-08-01
+Grupo Boticário       :active,, 2018-08-01,2019-11-01
+Via Varejo            :active,, 2019-11-01,2021-01-01
+Gamers Club           :active,, 2021-03-01,2023-05-01
+idwall                :active,, 2023-09-01,2023-12-31
+
+section Professor
+Téo Me Why             :active,, 2019-08-01,2024-12-31
+Instituto Aaron Swartz :active,, 2023-02-01,2024-12-31
+ASN.Rocks              :active,, 2020-06-01,2024-12-31
+
 
 <div>
 <a href="https://medium.com/@artur.aacs/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
