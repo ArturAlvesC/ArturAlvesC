@@ -33,9 +33,9 @@ GCP           :active,, 2018-01-01,2024-12-31
 </p>
 
 ##
-<p>
+<p align="center">
 <a href="https://github.com/ArturAlvesC">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArturAlvesC&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArturAlvesC&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArturAlvesC&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArturAlvesC&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
