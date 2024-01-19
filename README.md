@@ -26,7 +26,7 @@ GCP           :active,, 2018-01-01,2024-12-31
 ```
 
 ## Contatos:
-<p align="center">
+<p>
   <a href="https://medium.com/@artur.aacs/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
   <a href="https://linkedin.com/in/artur-alves-c/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/5511983748794" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-WhatsApp-25d366?style=for-the-badge&logo=WhatsApp&logoColor=white" target="_blank"></a>
