@@ -26,15 +26,16 @@ GCP           :active,, 2018-01-01,2024-12-31
 ```
 
 ## Contatos:
+<p align="center">
+  <a href="https://medium.com/@artur.aacs/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+  <a href="https://linkedin.com/in/artur-alves-c/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/5511983748794" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-WhatsApp-25d366?style=for-the-badge&logo=WhatsApp&logoColor=white" target="_blank"></a>
+</p>
 
-<div>
-<a href="https://medium.com/@artur.aacs/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
-<a href="https://linkedin.com/in/artur-alves-c/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://wa.me/5511983748794" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-WhatsApp-25d366?style=for-the-badge&logo=WhatsApp&logoColor=white" target="_blank"></a>
-</div>
-
-<div>
+##
+<p align="center">
 <a href="https://github.com/ArturAlvesC">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturAlvesC&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ArturAlvesC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArturAlvesC&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArturAlvesC&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
