@@ -33,8 +33,8 @@ GCP           :active,, 2018-01-01,2024-12-31
 <a href="https://wa.me/5511983748794" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-WhatsApp-25d366?style=for-the-badge&logo=WhatsApp&logoColor=white" target="_blank"></a>
 </div>
 
-<div>
+<div width="100%"*>
 <a href="https://github.com/ArturAlvesC">
-<img loading="lazy" width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturAlvesC&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" width="50%" height="180em" src="https://github-readme-stats.vercel.app/api?username=ArturAlvesC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturAlvesC&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ArturAlvesC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
