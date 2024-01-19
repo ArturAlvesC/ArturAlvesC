@@ -35,6 +35,6 @@ GCP           :active,, 2018-01-01,2024-12-31
 
 <div>
 <a href="https://github.com/ArturAlvesC">
-<img loading="lazy" width="600em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturAlvesC&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" width="600em" height="180em" src="https://github-readme-stats.vercel.app/api?username=ArturAlvesC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturAlvesC&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ArturAlvesC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
